@@ -8,6 +8,10 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 Ele abrangerá todo o espectro da estrutura Angular, desde a criação e manipulação de módulos até a implementação de serviços e roteamento. Cada fase do projeto será cuidadosamente projetada para fortalecer a compreensão prática, proporcionando a confiança necessária para enfrentar desafios no mundo real.
 
 Além disso, aprendi boas práticas de codificação, padronização de código e estratégias eficazes de depuração. O projeto visa não apenas a construção de conhecimentos técnicos, mas também a capacidade de aplicar esses conhecimentos de forma eficaz em projetos do mundo real.
+
+<div align="center">
+<img align="center" width="500px" src="https://github.com/DanilaRamos/angular-blog/assets/104326333/07d9dac7-efef-47c8-9815-f47713d4d319">
+</div>
  
 ## 💡 Objetivo
 O objetivo deste projeto é capacitar os participantes no domínio do Angular, proporcionando uma imersão completa nas habilidades técnicas necessárias para o desenvolvimento eficiente. Ao longo do projeto, os participantes irão aprofundar seus conhecimentos sobre o Angular, explorando a manipulação de átomos e a construção de componentes robustos. O foco será na compreensão aprofundada do TypeScript, elemento essencial para o desenvolvimento em Angular.
